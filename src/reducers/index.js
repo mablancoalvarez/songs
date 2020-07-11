@@ -1,4 +1,4 @@
-import { combineReducers, combineReducers } from 'redux';
+import { combineReducers } from 'redux';
 
 const songsReducers = () => {
     return [
